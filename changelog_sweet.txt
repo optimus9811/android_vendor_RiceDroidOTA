@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10 Pro (Sweet/Sweetin)
+Device maintainer: Zaid Khan (@zaidkhan0997)
+
+===== 12-11-2022 =====
+- Initial Android 13 Build 
+- Erofs Support
+- User build
+- Sleepy kernel by default (4.14.298)
+
+- Credit :- 
+               Arian, Adarsh, Vantom for the device sources
+               Aryannn999 for sources and help
+               Thanks To all beta testers
+
+
