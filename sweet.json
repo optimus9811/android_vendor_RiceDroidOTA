@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Zaid Khan",
+			"oem": "Xiaomi",
+			"device": "Redmi Note 10 Pro",
+			"filename": "riceDroid-13.0-20221112-sweet-v8.0-Gapps-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/zaid-sweet-build/files/Release/RiceDroid/riceDroid-13.0-20221112-sweet-v8.0-Gapps-OFFICIAL.zip/download",
+			"timestamp": 1668254431,
+			"md5": "ff3cdd121cda3c7635973dd26c89bf47",
+			"sha256": "d556d5379f685648ed8bd6d1879bae4c8ff626a8285097d1efe28dec1b59de1b",
+			"size": 2003020715,
+			"version": "8.0",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.me/zaidkhan099",
+			"telegram": "https://t.me/ricedroid_sweet",
+			"dt": "https://github.com/sweet-sm6150/device_xiaomi_sweet.git",
+			"common-dt": "https://github.com/sweet-sm6150/device_xiaomi_sm6150-common.git",
+			"kernel": "https://github.com/itsshashanksp/kernel_xiaomi_sm6150.git"
+		}
+	]
+}
