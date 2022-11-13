@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Bi-Monthly
+Device: Redmi 10C (fog,rain,wind)
+Device maintainer: NeonzGamingYT / eun0115
+Required firmware: R FW
+
+===== 2022.11.14 =====
+- Synced Latest riceDroid v8.0 changes
+- Initial Official Build
