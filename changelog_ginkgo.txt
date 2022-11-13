@@ -1,7 +1,7 @@
 Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Redmi Note 8/8T (ginkgo/willow)
-Device maintainer: Rasend 
+Device maintainer: Rasend / eun0115
 Required firmware: Last Global Firmware R
 
 ===== 2022.08.28 =====
@@ -18,3 +18,18 @@ Required firmware: Last Global Firmware R
 - Switch to SkiaGL Threaded
 - overlay: fix lockscreen charging overlay
 - Reduce TARGET_SCREEN_DENSITY.  (allows us to further resize widgets to the smaller ones e.g horizontal pill style on google's weather widget)
+
+===== 2022.11.13 =====
+- Synced Latest riceDroid v8.0 changes
+- Initial Android 13 build
+- Rebased over new source
+- Compiled hwui for perf
+- Enabled avoidGfxAccel  
+- Disabled client composition cache
+- Adjusted rounded corner radius
+- Compiled using Proton Clang 13
+- Miuicam default camera
+= disabled tts warning
+- switched to skiaglthreaded
+- Upstream to QS 4.14.299
+- many more
