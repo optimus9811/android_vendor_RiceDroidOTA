@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: LG V50 ThinQ (flashlmdd)
+Device maintainer: Anh Tran / flashlmdd
+Required firmware: Latest A12 Firmware
+
+===== 2022.11.13 =====
+- Synced Latest riceDroid v8.0 changes
+- Initial Android 13 build
