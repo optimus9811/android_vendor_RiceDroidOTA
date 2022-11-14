@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+        "maintainer": "Anh Tran (anht3889)",
+        "oem": "LG",
+        "device": "LG V50 ThinQ",
+        "filename": "riceDroid-8.0-22111315-OFFICIAL-CORE-flashlmdd.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/flashlmdd/CORE.x/riceDroid-8.0-22111315-OFFICIAL-CORE-flashlmdd.zip/download",
+        "timestamp": 1668353497,
+        "md5": "27a07e0bf251405f6d5cf05b0c404977",
+        "sha256": "ff7ac6bddd02e233eb9b7596c6d45c5b951fc29cb02a06d46b4a4d06f951c529",
+        "size": 1263040474,
+        "version": "CORE",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/anht3889",
+        "telegram": "https://t.me/v50thinq",
+        "dt": "",
+        "common-dt": "https://github.com/anht3889/device_lge_sm8150-common",
+        "kernel": "https://github.com/anht3889/android_kernel_lge_sm8150"
+    }
+  ]
+}
