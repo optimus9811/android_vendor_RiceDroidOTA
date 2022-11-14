@@ -13,14 +13,14 @@ In order for a device to be OTA compliant, there are a few things to know.
         "maintainer": "Name (nickname)",
         "oem": "OEM",
         "device": "Device Name",
-        "filename": "riceDroidAndroid-12.0-<date>-<device codename>-v<crversion>.zip",
-        "download": "https://sourceforge.net/projects/ricedroid/files/<device codename>/<crversion>/riceDroidAndroid-12.0-<date>-<device codename>-v<crversion>.zip/download",
+        "filename": "riceDroid-13.0-<date>-<device codename>-v<riceversion>.zip",
+        "download": "https://sourceforge.net/projects/ricedroid/files/<device codename>/<riceversion>/riceDroidAndroid-12.0-<date>-<device codename>-v<riceversion>.zip/download",
         "timestamp": 0000000000,
         "md5": "abcdefg123456",
         "sha256": "abcdefg123456",
         "size": 123456789,
-        "version": "<crversion>",
-        "buildtype": "Testing/Alpha/Beta/Weekly/Monthly",
+        "version": "<riceversion>",
+        "buildtype": "Test/Alpha/Beta/Nightly/Weekly/Monthly",
         "forum": "https://forum link",
         "gapps": "https://gapps link",
         "firmware": "https://firmware link",
@@ -61,7 +61,7 @@ Required firmware: add if any else remove this line
 ## 3. How to ##
 For following below description, replace *codename* with your device codename. 
 ### 3.1 Initial support ###
-After you contacted [Gabriel on Telegram](https://telegram.me/gwolf2u), and have the approval, follow the below steps.
+After getting approval from OTA repository maintainer(s) via maintainer's group, follow the steps below.
 1. Fork this repo to your own GitHub
 2. Copy file **createjson.sh** from *initial support* folder to riceDroid source folder and make it executable
 ```
@@ -78,15 +78,15 @@ chmod +x createjson.sh
 ### 3.2 Update build ###
 1. Clone this repo locally
 ```
-git clone https://github.com/ricedroidandroid/android_vendor_riceDroidOTA -b twelve
+git clone https://github.com/RiceDroid/android_vendor_RiceDroidOTA -b thirteen
 ```
-2. Change to the directory where you cloned this repo (android_vendor_riceDroidOTA) and fetch updates from repo.
+2. Change to the directory where you cloned this repo (android_vendor_RiceDroidOTA) and fetch updates from repo.
 ```
-cd android_vendor_riceDroidOTA
+cd android_vendor_RiceDroidOTA
 git fetch --all
 git pull
 ```
-3. Copy *codename*.json file from out dir (where your riceDroid zip is compiled) over to this repo folder (android_vendor_riceDroidOTA).
+3. Copy *codename*.json file from out dir (where your riceDroid zip is compiled) over to this repo folder (android_vendor_RiceDroidOTA).
 4. Make changes to changelog_*codename*.txt and save it.
 5. Now with the files updated, commit your update to this repo.
 ```
