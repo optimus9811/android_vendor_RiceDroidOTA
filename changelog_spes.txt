@@ -1,0 +1,14 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 11 (Spes/n)
+Device maintainer: whyyraku-(@unlstedd)
+Required firmware: Depends To Your Varian & Country
+
+===== 2022.11.17 =====
+- Update to Boot Control HAL v1.2
+- Drop soundtrigger HAL
+- Fixed MTP & Bluetooth Bugs
+- Adjust lmkd kill timeout
+- Fix mic volume in Apps
+- Adjusted statusbar padding
+- Updated fingerprint rom per-region MIUI build
