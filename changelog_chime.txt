@@ -39,3 +39,7 @@ Required firmware: Last Global Firmware
 - Remove CAF input boost
 - Fixed 60fps recording
 - Disable slow blur avoid lagging
+
+===== 2022.11.26 =====
+- Misc improvements
+- BYEBYE Miui cam
