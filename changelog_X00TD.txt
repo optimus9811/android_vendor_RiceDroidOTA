@@ -1,0 +1,17 @@
+Highlights & Device Specific   Changes:
+Build type: Monthly
+Device: Asus Zenfone Max Pro M1 (X00TD/X00T)
+Device maintainer: SKetU
+Required firmware: 087 or 086
+
+===== 2022.11.26 =====
+- Added Gcamgo by default
+- Shipped with los kernel by default
+- Shipped with November Cheetah fp
+- Used Proton clang compiler
+- Removed blur
+- Fixed some lags
+- Removed Grapheneos camera
+- Resized status bar padding
+- Added max screen recorder frame 60fps
+- many more
