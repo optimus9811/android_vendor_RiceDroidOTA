@@ -1,4 +1,4 @@
-Highlights & Device Specific   Changes:
+Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Asus Zenfone Max Pro M1 (X00TD/X00T)
 Device maintainer: SKetU
