@@ -3,6 +3,12 @@ Build type: Monthly
 Device: POCO X2 (phoenix)
 Device maintainer: Sharma G
 
+===== 28th November 2022 =====
+- Synced with Latest riceDroid v8.5 changes
+- phoenix: Import XiaomiParts
+- phoenix: Pin Google's SystemUI instead of AOSP's
+- phoenix: Add smart charging overlay 
+
 ===== 13th November 2022 =====
 - Synced with Latest riceDroid v8.0 changes
 - Initial A13 stable build
