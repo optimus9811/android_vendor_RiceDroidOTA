@@ -1,17 +1,16 @@
-
 {
 	"response": [
 		{
 			"maintainer": "SHARMA G",
 			"oem": "POCO",
 			"device": "POCO X4 PRO 5G",
-			"filename": "riceDroid-8.0-22111006-OFFICIAL-GMS-veux.zip",
-			"download": "https://drive.google.com/file/d/1Mj64YLBxn0_n-a2NPisZAZDScVvZJ80X/view?usp=drivesdk",
-			"timestamp": 1668063423,
-			"md5": "",
-			"sha256": "",
-			"size": ,
-			"version": "8.0",
+			"filename": "riceDroid-13.0-2022112821-veux-v8.5-GMS-OFFICIAL.zip",
+			"download": "",
+			"timestamp": 1669650744,
+			"md5": "db13d3f88a62e51fdf8e4697ae6b85ff",
+			"sha256": "118e3016ec1c822a551a84b8720c9d761c49c79d61d72ae91f1f5fcd78167f92",
+			"size": 1613957276,
+			"version": "8.5",
 			"buildtype": "Monthly",
 			"forum": "",
 			"gapps": "",
@@ -19,7 +18,7 @@
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.me/SharmagRit",
+			"paypal": "",
 			"telegram": "https://t.me/veux_builds",
 			"dt": "https://github.com/SharmagRit/android_device_xiaomi_veux.git",
 			"common-dt": "",
