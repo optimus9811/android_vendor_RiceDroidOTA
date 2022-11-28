@@ -3,6 +3,10 @@ Build type: Monthly
 Device: POCO X4 PRO 5G (veux/peux)
 Device maintainer: Sharma G
 
+===== 28th November 2022 ====
+- Synced with Latest riceDroid v8.5 changes
+- veux: Misc improvements
+
 ===== 10th November 2022 ====
 - Synced with Latest riceDroid v8.0 changes
 - veux: overlay: Update multiple vibration intensity levels config for T
