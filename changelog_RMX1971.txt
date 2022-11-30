@@ -3,6 +3,12 @@ Build type: Monthly
 Device: Realme 5 Pro 
 Device maintainers: KSSRAO
 
+==== 30 November, 2022 ====
+- Kharame kernel Upstreamed to latest 4.9.334
+- Switched to lineage hals (Audio, Display and Media hals)
+- Enabled Zygote Critical window (Efficient and faster app launch) 
+- Added cpu set for audio app (optimized audio scheduling)
+
 ==== 24 November, 2022 ====
 - Added feature to include sliders for vibration instead of just on/off toggle
 - Nuked the following Google apps: Calendar, Drive, Gmail and Photos
