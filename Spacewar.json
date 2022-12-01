@@ -1,1 +1,28 @@
-#initial
+{
+	"response": [
+		{
+			"maintainer": "vikas (optimusprime)",
+			"oem": "Nothing",
+			"device": "Nothing Phone (1)",
+			"filename": "riceDroid-13.0-2022120113-Spacewar-v8.6-GMS-OFFICIAL.zip",
+			"download": "https://sourceforge.net/projects/ricedroid-nothing-spacewar/files/ROM/riceDroid-13.0-2022120113-Spacewar-v8.6-GMS-OFFICIAL.zip/download",
+			"timestamp": 1669900091,
+			"md5": "7747030b79acbe789501237653a48ed2",
+			"sha256": "3a1619507fd5023fd40ac2a0165786a80d690b0d68272ddabc1096fb7464299b",
+			"size": 1979608987,
+			"version": "8.6",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
