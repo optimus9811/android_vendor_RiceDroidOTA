@@ -1,28 +1,28 @@
 {
- "response": [
-  {
-   "maintainer": "SKetU",
-   "oem": "asus",
-   "device": "Asus Zenfone Max Pro M1",
-   "filename": "riceDroid-13.0-2022112706-X00TD-v8.5-PIXEL-OFFICIAL.zip",
-   "download": "https://sourceforge.net/projects/ricedriod/files/riceDroid-13.0-2022112706-X00TD-v8.5-PIXEL-OFFICIAL.zip/download",
-   "timestamp":1669527099 ,
-   "md5": "8053e42dcef4d5cf1b95c4f814dee13d",
-   "sha256": "3890046bcb91fe3438679e29a1dcf3c1bf728a8a97a302ab53749273d45cfa6d",
-   "size":1628801690 ,
-   "version": "8.5",
-   "buildtype": "Monthly",
-   "forum": "https://t.me/X00TDDISC",
-   "gapps": "",
-   "firmware": "",
-   "modem": "",
-   "bootloader": "",
-   "recovery": "",
-   "paypal": "",
-   "telegram": "https://t.me/SKetUl",
-   "dt": "https://github.com/SKetU-l/device_asus_X00TD",
-   "common-dt": "https://github.com/SKetU-l/common_asus_sdm660",
-   "kernel": "https://github.com/SKetU-l/kernel_asus_sdm660"
-  }
- ]
+        "response": [
+                {
+                        "maintainer": "SKetU",
+                        "oem": "asus",
+                        "device": "Asus Zenfone Max Pro M1",
+                        "filename": "riceDroid-13.0-2022120202-X00TD-v8.6-CORE-OFFICIAL.zip" ,
+                        "download": "https://sourceforge.net/projects/ricedriod/files/riceDroid-13.0-2022120202-X00TD-v8.6-CORE-OFFICIAL.zip/download" ,
+                        "timestamp": 1669949486,
+                        "md5": "f99713df427d05b0de6ca962a3e9ddf0",
+                        "sha256": "cda770a9721d96e80cf5408085183e3b2aedce909d01d2c07349b209cd9fb7d6",
+                        "size": 1312977165,
+                        "version": "8.6",
+                        "buildtype": "Monthly",
+                        "forum": "https://t.me/X00TDDISC",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/SKetUl",
+                        "dt": "https://github.com/SKetU-l/device_asus_X00TD" ,
+                        "common-dt": "https://github.com/SKetU-l/common_asus_sdm660" ,
+                        "kernel": "https://github.com/SKetU-l/kernel_asus_sdm660" ,
+                }
+        ]
 }
