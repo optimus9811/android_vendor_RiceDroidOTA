@@ -2,7 +2,13 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Asus Zenfone Max Pro M1 (X00TD/X00T)
 Device maintainer: SKetU
-Required firmware: 087 or 086
+Required firmware: 087 or 063
+
+===== 2022.12.02 =====
+- Shipped with 720p sushi boot animation
+- Added Gcamgo
+- Fixed booting issue
+- Fixed screen flickering issue
 
 ===== 2022.11.26 =====
 - Added Gcamgo by default
